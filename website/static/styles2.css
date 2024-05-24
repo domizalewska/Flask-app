@@ -1,0 +1,28 @@
+body {
+  background-image: url("tlo.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.form-row button {
+    padding: 10px 30px;
+    font-size:28px;
+    border-radius: 30px;
+    margin-right: 10px;
+}
+
+.form-row button:hover {
+    padding: 10px 20px;
+    font-size:24px;
+    border-radius: 20px;
+    color: red;
+}
+
+span {
+    display: block;
+    margin-top: 20px;
+}
+
+.description {
+    margin-top: 80px; /* Możesz dostosować wartość marginesu do swoich preferencji */
+}
